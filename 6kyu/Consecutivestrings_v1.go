@@ -1,8 +1,8 @@
 
-              // Consecutivestrings
-              // https://www.codewars.com//kata/56a5d994ac971f1ac500003e
+            // Consecutivestrings
+            // https://www.codewars.com//kata/56a5d994ac971f1ac500003e
         
-              package kata
+            package kata
 
 func LongestConsec(strarr []string, k int) string {
     if(len(strarr) == 0 || k > len(strarr) || k <= 0) {
