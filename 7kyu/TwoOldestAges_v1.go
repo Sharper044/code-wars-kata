@@ -1,8 +1,8 @@
 
-              // TwoOldestAges
-              // https://www.codewars.com//kata/511f11d355fe575d2c000001
+            // TwoOldestAges
+            // https://www.codewars.com//kata/511f11d355fe575d2c000001
         
-              package kata
+            package kata
 
 import "sort"
 
