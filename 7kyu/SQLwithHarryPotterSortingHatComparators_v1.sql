@@ -1,8 +1,8 @@
 
-              // SQLwithHarryPotterSortingHatComparators
-              // https://www.codewars.com//kata/5abcf0f930488ff1a6000b66
+            // SQLwithHarryPotterSortingHatComparators
+            // https://www.codewars.com//kata/5abcf0f930488ff1a6000b66
         
-              SELECT *
+            SELECT *
 FROM students
 WHERE
   (quality2 = 'cunning' AND quality1 = 'evil') OR
